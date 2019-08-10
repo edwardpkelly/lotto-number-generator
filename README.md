@@ -18,8 +18,6 @@ You can also:
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
-
 * [React v16.8] - HTML enhanced for web apps!
 
 ### Installation

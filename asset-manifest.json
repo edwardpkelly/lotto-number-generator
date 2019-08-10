@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lotto-number-generator/static/css/main.5bc1df2a.chunk.css",
+    "main.js": "/lotto-number-generator/static/js/main.322d131b.chunk.js",
+    "main.js.map": "/lotto-number-generator/static/js/main.322d131b.chunk.js.map",
+    "runtime~main.js": "/lotto-number-generator/static/js/runtime~main.75585b54.js",
+    "runtime~main.js.map": "/lotto-number-generator/static/js/runtime~main.75585b54.js.map",
+    "static/js/2.a5adb38c.chunk.js": "/lotto-number-generator/static/js/2.a5adb38c.chunk.js",
+    "static/js/2.a5adb38c.chunk.js.map": "/lotto-number-generator/static/js/2.a5adb38c.chunk.js.map",
+    "index.html": "/lotto-number-generator/index.html",
+    "precache-manifest.a5ec973f7bff0576498f67191a31b5b9.js": "/lotto-number-generator/precache-manifest.a5ec973f7bff0576498f67191a31b5b9.js",
+    "service-worker.js": "/lotto-number-generator/service-worker.js",
+    "static/css/main.5bc1df2a.chunk.css.map": "/lotto-number-generator/static/css/main.5bc1df2a.chunk.css.map"
+  }
+}

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3835f3f8395753399243d36a20bcff5",
+    "revision": "cd8efa2785f549c4ae60fa2b9d9c65d5",
     "url": "/lotto-number-generator/index.html"
   },
   {
-    "revision": "90ba0109b70409ab1918",
+    "revision": "ece8c7285ab074b36bc4",
     "url": "/lotto-number-generator/static/css/main.5bc1df2a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lotto-number-generator/static/js/2.a5adb38c.chunk.js"
   },
   {
-    "revision": "90ba0109b70409ab1918",
-    "url": "/lotto-number-generator/static/js/main.322d131b.chunk.js"
+    "revision": "ece8c7285ab074b36bc4",
+    "url": "/lotto-number-generator/static/js/main.f6c71ce8.chunk.js"
   },
   {
     "revision": "ed185442e571234120ef",

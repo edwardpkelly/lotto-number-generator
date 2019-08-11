@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lotto-number-generator/precache-manifest.a5ec973f7bff0576498f67191a31b5b9.js"
+  "/lotto-number-generator/precache-manifest.0f069b132d7e37d6d6cd80a50a81af76.js"
 );
 
 self.addEventListener('message', (event) => {

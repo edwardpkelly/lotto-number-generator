@@ -1,11 +1,11 @@
 import React from 'react';
-import Lotto from './Lotto';
+import LottoGameBoard from './LottoGameBoard';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Lotto 
+      <LottoGameBoard 
         gameTitle="Mega Millions"
         numBalls={5}
         minimum={1}
@@ -18,7 +18,7 @@ function App() {
         sort
         twoDigits
       />
-      <Lotto 
+      <LottoGameBoard 
         gameTitle="Power Ball"
         numBalls={5}
         minimum={1}
@@ -31,7 +31,7 @@ function App() {
         sort
         twoDigits
       />
-      <Lotto 
+      <LottoGameBoard 
         gameTitle="Pick 6" 
         numBalls={6} 
         minimum={1} 
@@ -40,7 +40,7 @@ function App() {
         sort 
         twoDigits
       />
-      <Lotto 
+      <LottoGameBoard 
         gameTitle="Cash 5" 
         numBalls={5} 
         minimum={1} 
@@ -49,13 +49,13 @@ function App() {
         sort 
         twoDigits
       />
-      <Lotto 
+      <LottoGameBoard 
         gameTitle="Pick 4" 
         numBalls={4} 
         minimum={0} 
         maximum={9} 
       />
-      <Lotto 
+      <LottoGameBoard 
         gameTitle="Pick 3" 
         numBalls={3} 
         minimum={0} 
